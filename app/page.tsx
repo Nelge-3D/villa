@@ -1,7 +1,7 @@
-import Header from "./components/Header";
+import Header from "./Components/Header";
 import Galerie from "./Components/Galerie";
-import VillaInfos from "./Components/Villainfos";
-import ThreeDModelViewer from "./components/ThreeDModelViewer";
+import VillaInfos from "./Components/VillaInfos";
+import ThreeDModelViewer from "./Components/ThreeDModelviewer";
 
 export default function Home() {
   return (
